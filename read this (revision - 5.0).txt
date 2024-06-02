@@ -1,0 +1,7 @@
+!   › By thezetsuboxygen 
+!   › Ryo Ananda Pratiwi
+
+>#! 5rd revision
+-fix "Media upload failed on all hosts"
+
+thezetsuboxygen © copyright
