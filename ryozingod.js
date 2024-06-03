@@ -983,12 +983,12 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `© 𝖹𝗑𝖵 𝖢𝗅𝗂𝖾𝗇𝗍 4.0.0`,
+title: `© Alfin Faridh Taufiqiy`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
-sourceUrl: `https://www.instagram.com/ryo.r0yko?igsh=MXBtY3hycTIyb3pqZQ==`,
-mediaUrl: `https://www.instagram.com/ryo.r0yko?igsh=MXBtY3hycTIyb3pqZQ==`
+sourceUrl: `https://www.instagram.com/coreinpin/`,
+mediaUrl: `https://www.instagram.com/coreinpin/`
 }
 },
 text: teks
